@@ -11,7 +11,7 @@ export default function Home() {
         </SparklesText>
       </h1>
       <p className="text-lg text-center">
-        Akan rilis maksimal tanggal <strong>11 Juli, jam 22.00 WIB</strong>
+        Akan rilis maksimal tanggal <strong>11 Juli, jam 23.59 WIB</strong>
       </p>
       <p className="text-sm text-center mt-4">
         Stay tuned! Karya terbaik sedang dipoles 🛠️✨
