@@ -38,7 +38,7 @@ const About = () => {
             className="flex justify-center"
           >
             <img
-              src="/images/DSC_6643.jpg"
+              src="/images/fadhil.jpg"
               alt="Fadhil Firdaus Adha"
               className="w-full max-w-sm rounded-xl shadow-lg brightness-90 contrast-105"
             />
