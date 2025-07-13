@@ -54,7 +54,7 @@ Bagian kredit dibuat unik menggunakan robot karakter 3D yang dapat digerakkan, m
   category: "Fullstack Development",
   description:
     "Aplikasi berbasis web yang membantu pengelola air (seperti RT/RW atau desa) dalam mencatat dan mengelola tagihan air warga. Sistem ini dilengkapi fitur login, CRUD data pelanggan, pencatatan meteran, notifikasi tagihan via email, dan dashboard admin. Backend dibangun dengan Laravel Breeze dan Filament, serta notifikasi email menggunakan Laravel Notification via SMTP.",
-  image: "/images/projects/tagihan-air.jpg", // tinggal siapkan gambarnya
+  image: "/images/projects/tagihan-air.png", // tinggal siapkan gambarnya
   tech: [
     "Laravel Breeze",
     "Laravel Filament",

@@ -38,9 +38,9 @@ const About = () => {
             className="flex justify-center"
           >
             <img
-              src="/images/about-dev.svg"
-              alt="Developer Illustration"
-              className="w-full max-w-sm"
+              src="/images/DSC_6643.jpg"
+              alt="Fadhil Firdaus Adha"
+              className="w-full max-w-sm rounded-xl shadow-lg brightness-90 contrast-105"
             />
           </motion.div>
 
