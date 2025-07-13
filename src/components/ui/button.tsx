@@ -57,4 +57,3 @@ function Button({
 }
 
 export { Button, buttonVariants }
-export type ButtonProps = React.ButtonHTMLAttributes<HTMLButtonElement>
