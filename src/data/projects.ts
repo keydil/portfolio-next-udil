@@ -66,5 +66,28 @@ Bagian kredit dibuat unik menggunakan robot karakter 3D yang dapat digerakkan, m
   liveLink: "https://youtu.be/IdaThKndyjk?si=toR7ksYHMaf8Pkgv",
   githubLink: "https://github.com//tagihan-air",
   status: "In Development"
+},
+{
+  id: 5,
+  title: "Smart Home IoT Control System",
+  category: "IoT & Fullstack Development",
+  description:
+    `Sistem smart home berbasis Arduino Uno yang mengontrol berbagai perangkat seperti LED, Joystick, Servo, PIR Sensor, Buzzer, dan LDR. Semua data dikirim ke Firebase Realtime Database dan dikendalikan melalui antarmuka Next.js.
+
+Proyek ini menunjukkan integrasi antara perangkat fisik dan platform web untuk menciptakan otomatisasi rumah pintar dengan kontrol real-time.
+
+📌 *Detail wiring dan demo lengkap tersedia melalui dokumentasi video.*`,
+  image: "/images/projects/smart_home.jpg", // tinggal siapkan gambar
+  tech: [
+    "Arduino Uno",
+    "Express.js",
+    "Next.js",
+    "TypeScript",
+    "Firebase Realtime DB",
+    "Arduino IDE"
+  ],
+  liveLink: "https://youtube.com/@fadhilf1531?si=_juH3Cq7bbC1VxRI",
+  githubLink: "#",
+  status: "In Development"
 }
 ];
