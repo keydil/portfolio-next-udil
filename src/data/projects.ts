@@ -86,7 +86,7 @@ Proyek ini menunjukkan integrasi antara perangkat fisik dan platform web untuk m
     "Firebase Realtime DB",
     "Arduino IDE"
   ],
-  liveLink: "https://youtube.com/@fadhilf1531?si=_juH3Cq7bbC1VxRI",
+  liveLink: "https://drive.google.com/file/d/1mvxYS99UOb97EhEDAcKS2gkS1XVvNYF-/view?usp=drive_link",
   githubLink: "#",
   status: "In Development"
 }
